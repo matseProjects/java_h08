@@ -1,3 +1,6 @@
+import java.util.Arrays;
+import java.util.List;
+
 /**
  * 
  * @author lukas
@@ -12,6 +15,7 @@ public class Blatt {
 		if (msg != null) {
 			throw new IllegalArgumentException(msg);
 		}else {
+			Arrays.sort(newBlatt);
 			this.blatt = newBlatt;
 		}
 	}

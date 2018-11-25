@@ -1,7 +1,7 @@
 /**
  * 
  * @author lukas
- * Möglich Kombinationen
+ * Mögliche Kombinationen
  */
 public enum Combination {
 	Different,

@@ -5,7 +5,7 @@ public class TestBlatt {
 		Blatt drillingHoch = new Blatt(new int[] {9,9,9});
 
 		Blatt paarNiedrig = new Blatt(new int[] {2,2,3});
-		Blatt paarHoch = new Blatt(new int[] {5,5,2});
+		Blatt paarHoch = new Blatt(new int[] {5,2,5});
 		Blatt paarHoch2 = new Blatt(new int[] {10,5,5});
 
 		Blatt einfachNiedrig = new Blatt(new int[] {2,3,8});
